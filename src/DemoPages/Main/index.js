@@ -25,7 +25,6 @@ class Main extends React.Component {
             enableClosedSidebar,
             closedSmallerSidebar,
             enableMobileMenu,
-            enablePageTabsAlt,
         } = this.props;
 
         return (
