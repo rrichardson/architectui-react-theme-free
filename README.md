@@ -1,9 +1,5 @@
-#### ArchitectUI Bootstrap 4 ReactJS Theme FREE
-#### Made with love by DashboardPack.com
+#### ArchitectUI Bootstrap 4 Example Dashboard
 
-## PRO Version Available at - https://dashboardpack.com/theme-details/architectui-dashboard-react-pro
-
-### Installation
 Download and uncompress the theme package archive in your desired folder location.
 
 Download and install Node.js from nodejs.org/en/download/
